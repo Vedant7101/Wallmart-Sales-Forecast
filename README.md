@@ -39,7 +39,10 @@ unemployment, CPI, isHoliday, and Markdowns.
   
 **Dataset Link :** https://www.kaggle.com/fernandol/cracking-the-walmart-sales-forecasting-challenge
 
-### Exploratory Data Analysis
+### Prediction Result
 
-**Correlation Heat Map for train dataset**
+![alt text](/images/image1.png)
 
+### Conclusion
+
+We find that Random Forest Regression gives best acuracy on this dataset.
